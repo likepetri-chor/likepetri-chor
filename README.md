@@ -3,3 +3,4 @@
 - XML (Extensible Markup Language)
 - JSON (JavaScript Object Notation)
 - JS (JavaScript)
+- YAML (Yet Another Markup Language)
